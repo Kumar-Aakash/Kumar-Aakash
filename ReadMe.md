@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-Hello! I'm Aakash Kumar, the Co-Founder of [TechTose](https://techtose.com/).
+Hello! I'm Aakash Kumar, the Co-Founder of <b/>[TechTose](https://techtose.com/).</b>
 
 My journey in the tech world is twofold: leading management operations and diving deep into development.
 
