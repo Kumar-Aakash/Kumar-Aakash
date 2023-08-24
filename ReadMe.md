@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=400&center=false&width=435&lines=Hi%2C+There!+%F0%9F%91%8B;Aakash+Kumar+here+btw...;Nice+to+meet+you)](https://git.io/typing-svg)
 
 # 💫 About Me:
-Hello! I'm Aakash Kumar, the Co-Founder of [TechTose](https://techtose.com/).<br />
-My journey in the tech world is twofold: leading management operations and diving deep into development.<br />
-Beyond leading management operations, I'm deeply immersed in the evolving realms of Web3 and AI/ML. Passionate about products, startups, and entrepreneurship.
-My GitHub showcases a blend of my leadership insights and technical prowess. I believe in the power of collaboration and innovation. Let's connect and make tech magic together!
+Hello! I'm Aakash Kumar, the Co-Founder of [TechTose](https://techtose.com/).<br>
+My journey in the tech world is twofold: leading management operations and diving deep into development.<br>
+Beyond leading management operations, I'm deeply immersed in the evolving realms of Web3 and AI/ML. Passionate about products, startups, and entrepreneurship.<br>
+My GitHub showcases a blend of my leadership insights and technical prowess. I believe in the power of collaboration and innovation. <br> Let's connect and make tech magic together!
 
 
 
