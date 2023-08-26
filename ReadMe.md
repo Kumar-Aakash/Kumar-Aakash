@@ -16,9 +16,9 @@ My GitHub showcases a blend of my leadership insights and technical prowess. I b
 
 Let's connect and make tech magic together!
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aakash-kumar-37a978a2) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@skysharinghisthoughts) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@zenmode_code) 
+
 
 
 
