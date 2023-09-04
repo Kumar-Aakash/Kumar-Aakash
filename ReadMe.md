@@ -8,8 +8,7 @@
 
 Hello! I'm Aakash Kumar, the Co-Founder of <b/>[TechTose](https://techtose.com/).</b>
 
-![GitHub Logo](./GitHub.png)
-
+<img src="GitHub.png"></img>
 
 My journey in the tech world is twofold: leading management operations and diving deep into development.
 
